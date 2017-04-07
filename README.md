@@ -1,4 +1,4 @@
-# Raspberry-Pi-Message-of-the-Day
+# Raspberry Pi Message of the Day
 Instructions fo making a cool login script for the Raspberry Pi.
 
 1. Open a terminal and type sudo nano /etc/motd
