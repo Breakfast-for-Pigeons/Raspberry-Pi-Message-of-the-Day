@@ -19,7 +19,7 @@ Instructions for making a cool login script for the Raspberry Pi.
 
 ![](https://github.com/ShineTop/Raspberry-Pi-Message-of-the-Day/blob/master/images/motd_5.png)
 
-6. Add the script to your profile. In a terminal window, type **sudo /etc/profile** and then after the last line, add /usr/local/bin/(script). For example, if you are using the raspberry_pi_3_motd.sh script, type **/usr/local/bin/raspberry_pi_3_motd.sh**. NOTE: In my example below, I just named the file motd.sh
+6. Add the script location to your profile. In a terminal window, type **sudo /etc/profile** and then after the last line, add /usr/local/bin/(script). For example, if you are using the raspberry_pi_3_motd.sh script, type **/usr/local/bin/raspberry_pi_3_motd.sh**. NOTE: In my example below, I just named the file motd.sh
 
 ![](https://github.com/ShineTop/Raspberry-Pi-Message-of-the-Day/blob/master/images/motd_6a.png)
 
