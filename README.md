@@ -5,6 +5,7 @@ Check out my Wiki page for more detailed instructions: https://github.com/ShineT
 
 1. Open a terminal and type **sudo nano /etc/motd**
 
+![](https://github.com/ShineTop/Raspberry-Pi-Message-of-the-Day/blob/master/images/motd_1.png)
 
 2. Delete everything that is currenty in the message. Save and exit.
 
