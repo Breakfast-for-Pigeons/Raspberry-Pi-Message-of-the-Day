@@ -9,7 +9,7 @@ Instructions for making a cool login script for the Raspberry Pi.
 
 ![](https://github.com/ShineTop/Raspberry-Pi-Message-of-the-Day/blob/master/images/motd_2.png)
 
-3. In a terminal window, type **sudo nano /usr/local/bin/(script)**. For example, if you are using the raspberry_pi_3_motd.sh script, type **sudo nano /usr/local/bin/raspberry_pi_3_motd.sh**. NOTE: In my example below, I just named the file motd.sh
+3. Next, type **sudo nano /usr/local/bin/(script)**. For example, if you are using the raspberry_pi_3_motd.sh script, type **sudo nano /usr/local/bin/raspberry_pi_3_motd.sh**. NOTE: In my example below, I just named the file motd.sh
 
 ![](https://github.com/ShineTop/Raspberry-Pi-Message-of-the-Day/blob/master/images/motd_3.png)
 
