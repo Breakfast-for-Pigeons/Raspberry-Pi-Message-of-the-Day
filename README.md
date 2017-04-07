@@ -9,7 +9,7 @@ Instructions fo making a cool login script for the Raspberry Pi.
 3. In a terminal window, type sudo nano /usr/local/bin/<name of your script>. In my case, I named it motd.sh
 
 
-4. Enter your script.  Save the script and exit.
+4. Enter your script.  Save the script and exit. (Use one of the scripts above)
 
 5. Make the script executable. To do this, type sudo chmod +x /usr/local/bin/<name of your script>. In my case, I typed sudo chmod +x /usr/local/bin/motd.sh
 
