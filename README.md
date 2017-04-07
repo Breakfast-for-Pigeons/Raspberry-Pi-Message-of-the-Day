@@ -19,7 +19,7 @@ Check out my Wiki page for more detailed instructions: https://github.com/ShineT
 
 7. Go to Menu → Preferences → Raspberry Pi Configuration, and select Boot to CLI (Command Line Interface. Then click OK to save.
 
-Instead of a graphical boot, you will boot to a command line. After logging in, you will see your message of the day.
+Instead of a graphical boot, you will boot to a command line. After logging in, you will see your message of the day. NOTE: To get to the GUI, type **startx** on the command line.
 
 
 
