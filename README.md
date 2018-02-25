@@ -25,7 +25,7 @@ Instructions for making a cool login message for the Raspberry Pi.
 
 ![motd_6b](https://cloud.githubusercontent.com/assets/13591438/24821058/099e07ea-1bb2-11e7-9dc6-798ee037810e.png)
 
-7. Go to Menu → Preferences → Raspberry Pi Configuration, and select Boot to CLI (Command Line Interface. Then click OK to save.
+7. Go to Menu → Preferences → Raspberry Pi Configuration, and select Boot to CLI (Command Line Interface). Then click OK to save.
 
 ![motd_7](https://cloud.githubusercontent.com/assets/13591438/24821061/0ca52ab8-1bb2-11e7-81aa-855707c3784c.png)
 
