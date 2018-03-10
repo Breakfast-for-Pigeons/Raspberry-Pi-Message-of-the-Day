@@ -41,7 +41,7 @@ Instead of a graphical boot, you will boot to a command line. After logging in, 
 
 ![raspberry_pi_zero_w_motd](https://cloud.githubusercontent.com/assets/13591438/24821094/3269bff2-1bb2-11e7-8e0e-5d548637d4a9.png)
 
-
+![raspberry_pi_0_wh_motd](https://user-images.githubusercontent.com/13591438/37243928-0143c1d6-2447-11e8-8934-7928d5cc76e5.png)
 
 
 
