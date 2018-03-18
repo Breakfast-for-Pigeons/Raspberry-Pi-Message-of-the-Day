@@ -33,9 +33,13 @@ Instead of a graphical boot, you will boot to a command line. After logging in, 
 
 ![raspberry_pi_motd](https://cloud.githubusercontent.com/assets/13591438/24821070/16b6ef3c-1bb2-11e7-92da-4fc270def90b.png)
 
+![raspberry_pi_b_plus_motd](https://user-images.githubusercontent.com/13591438/37562243-ceba8c72-2a31-11e8-87a7-04afd4030e10.png)
+
 ![raspberry_pi_2_motd](https://cloud.githubusercontent.com/assets/13591438/24821077/1d98dbda-1bb2-11e7-92d9-aca6a0e3fa92.png)
 
 ![raspberry_pi_3_motd](https://cloud.githubusercontent.com/assets/13591438/24821083/2375048e-1bb2-11e7-8cdb-d3cd58b27e02.png)
+
+![raspberry_pi_3_b_plus_motd](https://user-images.githubusercontent.com/13591438/37562246-e944852a-2a31-11e8-8414-365c6be9cdf5.png)
 
 ![raspberry_pi_zero_motd](https://cloud.githubusercontent.com/assets/13591438/24821090/2bb7d004-1bb2-11e7-9945-197edd068dc2.png)
 
