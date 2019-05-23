@@ -48,6 +48,7 @@ Instead of a graphical boot, you will boot to a command line. After logging in, 
 ![raspberry_pi_0_wh_motd](https://user-images.githubusercontent.com/13591438/37243928-0143c1d6-2447-11e8-8934-7928d5cc76e5.png)
 
 
+![StereoPi_screenshot](https://user-images.githubusercontent.com/13591438/58261585-36106800-7d3e-11e9-92c4-4195eb196018.png)
 
 
 
